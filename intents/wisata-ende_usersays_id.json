@@ -1,0 +1,17 @@
+[
+  {
+    "id": "5ee0735a-45ea-4839-80a5-de3ce101df41",
+    "data": [
+      {
+        "text": "wisata",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

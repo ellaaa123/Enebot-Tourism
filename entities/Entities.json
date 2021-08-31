@@ -1,0 +1,9 @@
+{
+  "id": "f6ed25cc-ec22-441d-83ed-3b0b4205af35",
+  "name": "Entities",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

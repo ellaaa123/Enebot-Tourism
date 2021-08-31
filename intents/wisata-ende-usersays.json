@@ -1,0 +1,39 @@
+{
+  "id": "0c074a13-0986-4a09-8e4b-bba33998f741",
+  "name": "wisata-ende-usersays",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.danaukelimutu",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "https://travel.kompas.com/image/2021/05/25/111100927/air-danau-kelimutu-menyusut-sekitar-lima-meter-satu-tahun-ini?page\u003d1"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "danaukelimutu"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

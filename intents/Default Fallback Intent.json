@@ -1,0 +1,46 @@
+{
+  "id": "185f8ea2-1fa5-427b-ba24-cabfc15eba0a",
+  "name": "Default Fallback Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Saya tidak mengerti. Bisa diulangi?",
+            "Saya tidak dengar Anda bilang apa. Bisa ulangi lagi?",
+            "Maaf, bisa ulangi lagi?",
+            "Maaf, bisa diulangi?",
+            "Bisa ulangi lagi?",
+            "Maaf, saya tidak mengerti.",
+            "Maaf, tadi bilang apa?",
+            "Sekali lagi?",
+            "Bilang apa tadi?",
+            "Bisa diulangi?",
+            "Saya tidak mengerti.",
+            "Saya tidak dengar."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

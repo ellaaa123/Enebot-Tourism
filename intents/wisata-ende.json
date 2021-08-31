@@ -1,0 +1,54 @@
+{
+  "id": "ccb1b547-7469-4e96-b49e-4c50b0f809f4",
+  "name": "wisata-ende",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.wisataende",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a855dfd8-365f-40a2-a6c6-5dae9c800a5e",
+          "name": "location",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "1. Danau Kelimutu\n2. Taman Renungan Bung Karno\n3. Situs Pengasingan Bung Karno\n4. Pantai Ria\n5. Museum Tenun Ikat"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "wisataende"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

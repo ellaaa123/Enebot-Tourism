@@ -1,0 +1,53 @@
+{
+  "id": "fce65b07-03bf-482b-8fb2-ca6e6d1814f5",
+  "name": "hotelende",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.hotelende",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6f4e8955-c30e-4128-8549-8730e70c7438",
+          "name": "hotelende1",
+          "required": false,
+          "dataType": "",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "1. Hotel Grand Wisata\n2. LCR Hotel\n3. Hotel Horison\n4. Kelimutu Crater Lakes Ecolodge\n5. Palm Bungalow"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "hotelende"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

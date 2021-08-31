@@ -1,0 +1,67 @@
+[
+  {
+    "id": "0d916492-4519-499f-8ee3-ad85053ce734",
+    "data": [
+      {
+        "text": "hai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "7e4328ec-2ba5-4bc4-bd24-345c3b50fd60",
+    "data": [
+      {
+        "text": "halo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "ce894763-68e2-4da3-b750-76ce0375e561",
+    "data": [
+      {
+        "text": "halo yang di sana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "cd646df6-5819-48f7-8f9c-3e694ec27142",
+    "data": [
+      {
+        "text": "halo halo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "3d636925-118e-47eb-b3c5-a6774b3a4dc0",
+    "data": [
+      {
+        "text": "assalamualaikum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]
